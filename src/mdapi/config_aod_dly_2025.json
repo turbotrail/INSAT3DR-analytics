@@ -1,0 +1,21 @@
+{
+    "user_credentials": {
+        "username/email": "dummy_user",
+        "password": "dummy_password"
+    },
+    "search_parameters": {
+        "datasetId": "E06OCM_L3_LAC_AD",
+        "startTime": "2025-01-01",
+        "endTime": "2025-12-31",
+        "count": "",
+        "boundingBox": "",
+        "gId": ""
+    },
+    "download_settings": {
+        "download_path": "X:\\mdapi_data",
+        "organize_by_date": true,
+        "skip_user_input": true,
+        "generate_error_logs": true,
+        "error_logs_dir": "c:\\Users\\Jeyaprakash S\\Documents\\GitHub\\weather_analytics\\mdapi\\logs"
+    }
+}

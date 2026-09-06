@@ -1,0 +1,290 @@
+02-09-2026 16:12:32 - ERROR - 
+
+Error Fetching Data from Search Endpoint.
+
+Error Message: Data unavailable for given parameters
+Error Details: {'timestamp': '02-09-2026 04:13:08', 'statusCode': 500, 'message': ['Data unavailable for given parameters']}
+
+02-09-2026 16:16:48 - ERROR - 
+
+Error Fetching Data from Search Endpoint.
+
+Error Message: Bad Input Value; 365
+Error Details: {'timestamp': '02-09-2026 04:17:24', 'statusCode': 400, 'message': ['Bad Input Value; 365']}
+
+02-09-2026 16:19:10 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2026-01-01&endTime=2026-04-10&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 16:19:57 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2026-04-11&endTime=2026-07-19&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 16:19:59 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2026-07-20&endTime=2026-09-02&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 16:59:18 - ERROR - 
+
+Error Fetching Data from Search Endpoint.
+
+Error Message: Data unavailable for given parameters
+Error Details: {'timestamp': '02-09-2026 04:59:54', 'statusCode': 500, 'message': ['Data unavailable for given parameters']}
+
+02-09-2026 16:59:18 - ERROR - 
+
+Error Fetching Data from Search Endpoint.
+
+Error Message: Data unavailable for given parameters
+Error Details: {'timestamp': '02-09-2026 04:59:55', 'statusCode': 500, 'message': ['Data unavailable for given parameters']}
+
+02-09-2026 16:59:19 - ERROR - 
+
+Error Fetching Data from Search Endpoint.
+
+Error Message: Data unavailable for given parameters
+Error Details: {'timestamp': '02-09-2026 04:59:56', 'statusCode': 500, 'message': ['Data unavailable for given parameters']}
+
+02-09-2026 17:03:47 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2026-01-01&endTime=2026-04-10&count=100&startIndex=101
+02-09-2026 17:05:38 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2026-04-11&endTime=2026-07-19&count=100&startIndex=101
+02-09-2026 17:06:14 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2026-07-20&endTime=2026-09-02&count=100&startIndex=101
+02-09-2026 20:01:08 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2025-01-01&endTime=2025-04-10&count=100&startIndex=101
+02-09-2026 20:01:52 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2025-04-11&endTime=2025-07-19&count=100&startIndex=101
+02-09-2026 20:01:54 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2025-07-20&endTime=2025-10-27&count=100&startIndex=101
+02-09-2026 20:01:55 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2025-10-28&endTime=2025-12-31&count=100&startIndex=101
+02-09-2026 21:23:20 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2025-01-01&endTime=2025-04-10&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 21:24:31 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2025-04-11&endTime=2025-07-19&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 21:25:44 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2025-07-20&endTime=2025-10-27&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 21:26:28 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2025-10-28&endTime=2025-12-31&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 22:01:33 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2024-01-01&endTime=2024-04-09&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 22:01:39 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2024-01-01&endTime=2024-04-09&count=100&startIndex=101
+02-09-2026 22:02:55 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2024-04-10&endTime=2024-07-18&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 22:04:19 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2024-07-19&endTime=2024-10-26&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 22:05:03 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2024-07-19&endTime=2024-10-26&count=100&startIndex=101
+02-09-2026 22:05:05 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=3RIMG_L3C_PET_DLY&startTime=2024-10-27&endTime=2024-12-31&count=100&boundingBox=79.8%2C12.8%2C80.4%2C13.3&startIndex=101
+02-09-2026 22:06:14 - ERROR - 
+
+Error Fetching Data from 'fetch_and_download_data()' method.
+
+Error Message: {error_message}
+Error Details: 
+Traceback (most recent call last):
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\mdapi\mdapi.py", line 403, in fetch_and_download_data
+    res.raise_for_status()
+  File "C:\Users\Jeyaprakash S\Documents\GitHub\weather_analytics\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error:  for url: https://mosdac.gov.in/apios/datasets.json?datasetId=E06OCM_L3_LAC_AD&startTime=2024-10-27&endTime=2024-12-31&count=100&startIndex=101
+02-09-2026 22:06:14 - ERROR - There was an Error encountered regarding the Validation of 'username' in Logout.
+Error Details: No Active Session found for this user.
+Solution: Please make sure you use the Correct Username associated with your MOSDAC account.

@@ -1,0 +1,21 @@
+{
+    "user_credentials": {
+        "username/email": "dummy_user",
+        "password": "dummy_password"
+    },
+    "search_parameters": {
+        "datasetId": "3RIMG_L3C_PET_DLY",
+        "startTime": "2024-10-27",
+        "endTime": "2024-12-31",
+        "count": "100",
+        "boundingBox": "79.8,12.8,80.4,13.3",
+        "gId": ""
+    },
+    "download_settings": {
+        "download_path": "X:\\mdapi_data",
+        "organize_by_date": true,
+        "skip_user_input": true,
+        "generate_error_logs": true,
+        "error_logs_dir": "c:\\Users\\Jeyaprakash S\\Documents\\GitHub\\weather_analytics\\mdapi\\logs"
+    }
+}

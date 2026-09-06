@@ -1,0 +1,10 @@
+01-09-2026 09:20:02 - ERROR - 
+
+Error Fetching Data from Search Endpoint.
+
+Error Message: Data unavailable for given parameters
+Error Details: {'timestamp': '01-09-2026 09:20:02', 'statusCode': 500, 'message': ['Data unavailable for given parameters']}
+
+01-09-2026 11:36:51 - ERROR - 
+Permission Error encountered: No Permission to Write to /Volumes/Expansion/mdapi_data, hence could not Proceed with Download.
+Please Check and Update the Permission for Writing files inside: /Volumes/Expansion/mdapi_data
